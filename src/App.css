@@ -1,0 +1,23 @@
+.newsComponent{
+  display: flex;
+  flex-wrap: wrap;
+  place-content: center;
+  gap: 1rem;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.topHeadlines{
+  font-size: 50px;
+}
+.loading{
+  font-size: 40px;
+  text-align: center;
+}
+.top-main{
+  margin: 20px;
+}
